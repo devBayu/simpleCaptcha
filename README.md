@@ -7,4 +7,4 @@ Untuk menjalankan program ikuti cara dibawah ini :
 4. Tunggu proses config selesai, kemudian mvn install untuk mendownload dependency yang dibutuhkan.
 5. Jika semua configurasi sudah selesai, jalankan aplikasi.
 
-# simpleCaptcha
+# Thank You
